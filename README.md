@@ -6,24 +6,17 @@ Plugin that Aligns or Resizes content according to Jan Tschichold's canon of pag
 
 - Align key object relative to the format
 
-
-
-
-
+<img src="https://github.com/arsfeshchenko/Tschichold-Sketch-Plugin/blob/master/Demo/Align.gif" alt="Demo" />
 
 - Align & Resize key object relative to the format
 
-
-
-
-
-
+<img src="https://github.com/arsfeshchenko/Tschichold-Sketch-Plugin/blob/master/Demo/Align%20%26%20Resize.gif" alt="Demo" />
 
 #Installation
 
 ###Install manually 
 
-1. [Download the latest release](https://github.com/lucienlee/AlignTo/releases/latest) and open it
+1. [Download the latest release](https://github.com/arsfeshchenko/Tschichold-Sketch-Plugin/releases/latest) and open it
 2. Navigate the Sketch menu bar to `Plugins ▸ Reveal Plugins Folder`
 3. Place `Tschichold` directory into the revealed plugins directory
 
